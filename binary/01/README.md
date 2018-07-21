@@ -1,11 +1,12 @@
 ## Level 00
 
-This is a really easy challenge just to get you going.
+Try examining the binary itself.
 
 ### Submission
 
-Submit the flag [here](https://goo.gl/forms/7TkTG5HUCO7MTSv72).
+Submit the flag [here](https://goo.gl/forms/WneKZNwKkzP2PEk43).
 
 ### Resources
 
-[strings](https://linux.die.net/man/1/strings)
+[binwalk](https://github.com/ReFirmLabs/binwalk)
+[something else](#)

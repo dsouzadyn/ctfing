@@ -3,8 +3,7 @@
 This section contains challenges related to binary(only linux binaries are supported currently) ctfs.
 
 Each level contains 3 files:
-1.  x86 Binary
-2.  x64 Binary
+1.  x86 Binary or x64 Binary or both.
 3.  Source code (Without the flag ofcourse)
 
 ### Objective
