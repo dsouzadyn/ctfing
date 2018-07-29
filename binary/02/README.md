@@ -4,7 +4,7 @@ I just up the stakes a bit :)
 
 ### Submission
 
-Submit the flag [here](https://goo.gl/forms/7TkTG5HUCO7MTSv72).
+Submit the flag [here](https://goo.gl/forms/d5UfR1iqkWQr7yED2).
 
 ### Resources
 
